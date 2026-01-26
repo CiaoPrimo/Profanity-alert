@@ -18,7 +18,8 @@ class ProfanityAlert(commands.Cog):
         self.bad_words = [
             'fuck', 'shit', 'damn', 'ass', 'bitch', 'bastard',
             'crap', 'hell', 'piss', 'dick', 'cock', 'pussy',
-            'whore', 'slut', 'fag', 'retard', 'nigger', 'cunt'
+            'whore', 'slut', 'fag', 'retard', 'nigger', 'cunt'.
+            'cum'
         ]
         
         # Compile regex pattern for better performance
